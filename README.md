@@ -1,3 +1,5 @@
+
+![SEATWIZ](https://github.com/RAJA-072/Figma--Exam-Scheduling-App-Design-/assets/143001262/a3f03579-c3ff-4f15-8c1d-c70c487068d4)
 # ExamSeat - Exam Seating Arrangement App (README)
 
 This repository contains the Figma design files for ExamSeat, a mobile application designed to streamline exam seating arrangements for both students and administrators.
